@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Aware</string>
+
+    <string name="Current_Location">Current Location</string>
+    <string name="back">Back</string>
+    <string name="system_unit">System Unit</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="cafe">Cafe</string>
+    <string name="gym">Gym</string>
+    <string name="bank">Bank</string>
+    <string name="airport">Airport</string>
+    <string name="atm">Atm</string>
+    <string name="bar">Bar</string>
+    <string name="gas">Gas</string>
+    <string name="hospital">Hospital</string>
+    <string name="spa">Spa</string>
+    <string name="food">Food</string>
+    <string name="movie">Movie</string>
+    <string name="shoping">Shoping</string>
+    <string name="no_connection">No Connection</string>
+    <string name="error">Error</string>
+    <string name="title_activity_map_and_info">Map</string>
+    <string name="search_query">Search for business and services</string>
+    <string name="website">Go to website</string>
+    <string name="share">Share</string>
+    <string name="info">Information</string>
+    <string name="save">Save</string>
+    <string name="Gps_network_not_enabled">GPS network not enabled</string>
+    <string name="Open_location_settings">enable GPS</string>
+    <string name="no_image">No image available</string>
+    <string name="share_item">Share Item</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="distance_dialog">Distance Km/Mile</string>
+    <string name="choose_unit">Choose Unit</string>
+    <string name="delete_all">Delete all favorites</string>
+    <string name="try_wifi">TRY WIFI</string>
+    <string name="exit">Exit</string>
+    <string name="available"> gps is available</string>
+    <string name="unavailable"> gps is temporarily unavailable</string>
+    <string name="out_service"> gps is out of service</string>
+    <string name="enabled">gps has enabled</string>
+    <string name="disabled">gps has disabled</string>
+</resources>
+

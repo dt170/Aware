@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aware</string>
+    <string name="Current_Location">מיקום נוכחי</string>
+    <string name="airport">שדה תעופה</string>
+    <string name="atm">כספומט</string>
+    <string name="back">חזרה</string>
+    <string name="bank">בנק</string>
+    <string name="bar">בר</string>
+    <string name="cafe">קפה</string>
+    <string name="cancel">ביטול</string>
+    <string name="food">אוכל</string>
+    <string name="gas">דלק</string>
+    <string name="gym">מכון כושר</string>
+    <string name="hello_blank_fragment"></string>
+    <string name="hospital">בית חולים</string>
+    <string name="movie">סרט</string>
+    <string name="ok">אישור</string>
+    <string name="shoping">קניות</string>
+    <string name="spa">ספא</string>
+    <string name="system_unit">יחידות מידה</string>
+    <string name="error">שגיאה</string>
+    <string name="no_connection">אין חיבור אינטרנט</string>
+    <string name="search_query">חפש עסקים ושירותים</string>
+    <string name="title_activity_map_and_info">מפה</string>
+    <string name="save">שמור</string>
+    <string name="share">שתף</string>
+    <string name="website">אתר</string>
+    <string name="info">מידע</string>
+    <string name="Gps_network_not_enabled">גי פי אס לא זמין</string>
+    <string name="Open_location_settings">אפשר גי פי אס </string>
+    <string name="add_to_favorite">הוסף למועדפים</string>
+    <string name="delete_all">מחק כל המועדפים</string>
+    <string name="distance_dialog">מרחק ק"מ\מייל</string>
+    <string name="exit">יציאה</string>
+    <string name="no_image">אין תמונה זמינה</string>
+    <string name="share_item">שתף פריט</string>
+    <string name="available">גי פי אס זמין</string>
+    <string name="choose_unit">בחר יחידת מרחק</string>
+    <string name="disabled">בוטל</string>
+    <string name="try_wifi">נסה וויפי</string>
+    <string name="unavailable">גי פי אס לא זמין</string>
+    <string name="out_service">אין קליטת גי פי אס</string>
+    <string name="enabled">גי פי אס אופשר</string>
+</resources>
