@@ -1,7 +1,7 @@
-Project Aware
+# Project Aware
 
-# This GitHub contains all my project files .
-# In order to show an example to my code writing 
+## This GitHub contains all my project files .
+## In order to show an example to my code writing 
 
 This project contains use's in Google places api ,maps,user location,working with JSON,Callbacks,fragments, and more. 
 
