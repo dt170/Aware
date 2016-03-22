@@ -1,2 +1,7 @@
-This files Project is only for watching the way i wrote the application 
-This application wont work because i took out the google places KEYS (private)
+#Project Aware
+###This GitHub contines all my project files .
+####In order to show an example to my code writing 
+####This project contines use's in Google places api ,maps,user location,working with JSON,Callbacks,fragments, and more. 
+####Links:
+[Linkedin Profile:](https://www.linkedin.com/in/dvir-toledano-b462a8113?trk=hp-identity-name)
+[Project images:](https://www.yogile.com/njl3mudo/41m/share/?vt=MmbRYkD)
