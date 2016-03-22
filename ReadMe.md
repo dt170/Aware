@@ -1,8 +1,7 @@
 # Project Aware
 
-This GitHub contains all my project files .
-In order to show an example to my code writing 
 This project contains use's in Google places api ,maps,user location,working with JSON,Callbacks,fragments, and more. 
+that github is an example to my code writing .
 
 #### Links:
 [Linkedin Profile] (https://www.linkedin.com/in/dvir-toledano-b462a8113?trk=hp-identity-name).
