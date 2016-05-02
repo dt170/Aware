@@ -1,6 +1,7 @@
 # Project Aware
 
- A location based android app for smartphones and tablets that lets you search places based on current location and keywords, and marks them on the map other options is to save a place to favorite,call,navigate,website,open-hours and picture.
+ A location based android application for smartphones and tablets that let the user search a place by intrest based on current location and keywords, additionally all places near by will be  mark on the map.
+ The user options are: save to favorite,make a call,navigate,go to website,open-hours and picture of the user choise.
 Worked with Google Places API, Google Maps,fragments,SQLite DB, broadcast receivers,callbacks,json,recycler view etc.
 
 #### Links:
