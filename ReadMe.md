@@ -18,7 +18,25 @@ Worked with Google Places API, Google Maps,fragments,SQLite DB, broadcast receiv
 
 ### Screen Shots
 
-<img src=https://github.com/dt170/Aware/blob/master/images/main.png ,width = "400",height="600">
+#### Main screen 
+<img src=https://github.com/dt170/Aware/blob/master/images/main.png>
+
+#### Result
+
+<img src=https://github.com/dt170/Aware/blob/master/images/result.png>
+
+#### Map
+
+<img src=https://github.com/dt170/Aware/blob/master/images/map.png>
+
+#### info
+
+<img src=https://github.com/dt170/Aware/blob/master/images/info.png>
+
+#### Favorite
+
+<img src=https://github.com/dt170/Aware/blob/master/images/fav.png>
+
 
 #### Links:
 [Linkedin Profile] (https://www.linkedin.com/in/dvir-toledano-b462a8113?trk=hp-identity-name).
