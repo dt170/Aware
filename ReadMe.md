@@ -19,11 +19,11 @@ Worked with Google Places API, Google Maps,fragments,SQLite DB, broadcast receiv
 ### Screen Shots
 
 #### Main screen 
-<img src=https://github.com/dt170/Aware/blob/master/images/main.png>
+<img src=https://github.com/dt170/Aware/blob/master/images/main.png width="200" height="400">
 
 #### Result
 
-<img src=https://github.com/dt170/Aware/blob/master/images/result.png>
+<img src=https://github.com/dt170/Aware/blob/master/images/result.png width="200" height="400">
 
 #### Map
 
