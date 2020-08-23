@@ -18,7 +18,7 @@ Worked with Google Places API, Google Maps,fragments,SQLite DB, broadcast receiv
 
 ### Screen Shots
 
-<img src=https://github.com/dt170/Aware/blob/master/images/main.png>
+<img src=https://github.com/dt170/Aware/blob/master/images/main.png ,width = "400",height="600">
 
 #### Links:
 [Linkedin Profile] (https://www.linkedin.com/in/dvir-toledano-b462a8113?trk=hp-identity-name).
